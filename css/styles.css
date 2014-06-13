@@ -1,5 +1,6 @@
 body {
   background-color: white;
+  margin: 0 20% 0 20%;
 }
 
 #main {
@@ -33,11 +34,14 @@ body {
 }
 
 #container {
-  display: inline-flex;
+  padding-top: 1em;
+  display: inline-block;
   margin: 0 auto;
+  text-align: center;
 }
 
 .left {
+  margin-left: 250px;
   width: 150px;
   border: 1px solid black;
   display: inline-block;

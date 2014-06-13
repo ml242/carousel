@@ -13,7 +13,7 @@ $(document).ready(function(){
 
   $('#main').css("background-image", "url(images/1.jpg)");
   $('#main').css("background-repeat", "no-repeat");
-  $('#main').css("height", "800px");
+  // $('#main').css("height", "800px");
   $('#main').css("margin-top", "1em");
   
 
